@@ -476,6 +476,13 @@ Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Na
 
 - Durchblick Philosophie: [Aristoteles Denken macht glücklich](https://podcasts.apple.com/de/podcast/durchblick-philosophie/id1497307279?i=1000508404306)
 
+
+### Unterstützung bei der Arbeit mit Antiken Texten
+
+* [Griechisches Alphabet](https://de.wikipedia.org/wiki/Griechisches_Alphabet)
+* [Perseus Projekt](https://www.perseus.tufts.edu/hopper/) Digitales Verzeichnis altgriechischer Texte und englischer Übersetzungen mit Zugriff auf den LSJ
+* [Gesellschaft für antike Philosophie](https://ganph.de/)
+
 ## 2. Sitzung am 05.05.2025
 
 * Rekapitulation Kapitel 1 und 2
