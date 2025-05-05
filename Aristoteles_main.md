@@ -163,13 +163,13 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 
 | **28.04.2025** | **Eröffnung, Organisatorisches, Lektüre Kapitel 1--3** | **Protokoll** |
 |------------|------------------------------|---------|
-| 05.05.2025 |  Lektüre Kapitel 4--6: Ursprung und Arten der Dichtung | -- |
-| 12.05.2025 | Lektüre Kapitel 7--10: Aufbau und Mythos| -- |
-| 19.05.2025 | Kapitel 11--13: Peripetie, Anagnorisis, Pathos| -- |
-| 26.05.2025 |Kapitel 14: Eleos und Phobos; bis hierhin Lektüre der Troerinnen von Euripides| -- |
-| 02.06.2025 | Kapitel 15: Charaktere; Ergänzung aus Theophrast| -- |
+| 05.05.2025 |  Lektüre Kapitel 4--6: Ursprung und Arten der Dichtung | Aaron Kreuer |
+| 12.05.2025 | Lektüre Kapitel 7--10: Aufbau und Mythos| Laura Pohlmann |
+| 19.05.2025 | Kapitel 11--13: Peripetie, Anagnorisis, Pathos| Tarja Hansen |
+| 26.05.2025 |Kapitel 14: Eleos und Phobos; bis hierhin Lektüre der Troerinnen von Euripides| Julius Schrader |
+| 02.06.2025 | Kapitel 15: Charaktere; Ergänzung aus Theophrast| Leonie Loock |
 | 09.06.2025| **Keine Sitzung: Pfingsten**| -- |
-| 16.06.2025 | Kapitel 16--18: Arten der Wiedererkennung, Epos und Drama| -- |
+| 16.06.2025 | Kapitel 16--18: Arten der Wiedererkennung, Epos und Drama| Alina Haigermoser |
 | 23.06.2025 | Kapitel 19--22: Sprache und Rhetorik; Bis hierhin Lektüre der Troerinnen von Seneca | -- |
 | 30.06.2025 |Kapitel 23-25: Gute Dichtung -- Schlechte Dichtung| -- |
 | 07.07.2025| **Abschlussdiskussion** | -- |
