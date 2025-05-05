@@ -480,7 +480,7 @@ Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Na
 
 * Rekapitulation Kapitel 1 und 2
 
-> Bildet 3 Gruppen und untersucht das Euch zugewiesene Kapitel auf Schlüsselbegriffe und Charakteristika der Dichtkunst. Stellt die Ergebnisse anschließend kurz im Plenum vor. Ihr habt 20 Minuten Zeit für die Gruppendiskussion.
+> Bildet drei Gruppen und untersucht das Euch zugewiesene Kapitel auf Schlüsselbegriffe und Charakteristika der Dichtkunst. Stellt die Ergebnisse anschließend kurz im Plenum vor. Ihr habt 20 Minuten Zeit für die Gruppendiskussion.
 
 * Gruppe 1: Kapitel 3 + Kapitel 4, S. 13 dritter Absatz (...Hymnen und Preislieder)
 
