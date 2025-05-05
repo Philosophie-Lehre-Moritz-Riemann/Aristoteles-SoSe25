@@ -1,4 +1,4 @@
-Aristoteles_main.md
+Aristoteles_main
 
 # Aristoteles: Poetik (050802)
 
