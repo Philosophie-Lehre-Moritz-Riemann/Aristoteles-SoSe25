@@ -170,8 +170,8 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 | 02.06.2025 | Kapitel 15: Charaktere; Ergänzung aus Theophrast| Leonie Loock |
 | 09.06.2025| **Keine Sitzung: Pfingsten**| -- |
 | 16.06.2025 | Kapitel 16--18: Arten der Wiedererkennung, Epos und Drama| Alina Haigermoser |
-| 23.06.2025 | Kapitel 19--22: Sprache und Rhetorik; Bis hierhin Lektüre der Troerinnen von Seneca | -- |
-| 30.06.2025 |Kapitel 23-25: Gute Dichtung -- Schlechte Dichtung| -- |
+| 23.06.2025 | Kapitel 19--22: Sprache und Rhetorik; Bis hierhin Lektüre der Troerinnen von Seneca | Deniz Muzac |
+| 30.06.2025 |Kapitel 23-25: Gute Dichtung -- Schlechte Dichtung| Erik Niemann, Leon Wulf |
 | 07.07.2025| **Abschlussdiskussion** | -- |
 
 **Prüfungszeitraum des aktuellen Semesters**:
