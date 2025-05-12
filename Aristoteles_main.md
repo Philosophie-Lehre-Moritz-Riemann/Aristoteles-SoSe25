@@ -496,4 +496,119 @@ Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Na
 * Gruppe 3: Kapitel 6
 
 
+### Protokoll von Aaron Kreuer
+
+**Themen:**
+
+1. Rekapitulation von Kapitel 1 und 2
+2. Ergebnissammlung: Gruppenarbeit zu Textabschnitten
+   
+   - Kapitel 3 und Kapitel 4, S. 13 dritter Absatz („Hymnen und Preislieder)
+   - Kapitel 4 (aus vorhomerischer Zeit…) und Kapitel 5
+   - Kapitel 6
+     
+**1. Rekapitulation von Kapitel 1 und 2**
+
+Aristoteles eröffnet seine Poetik mit der These, dass alle Dichtkunst die *Nachahmung*
+(griech. *Mimesis*)[^1] praktiziert. Ferner unterscheidet er die Dichtung in ihre
+unterschiedlichen Formen, welche sich auf die Dithyrambendichtung (Chorlyrik), Epik,
+Dramatik, den Tanz und das Flöten- und Zitterspiel beschränken. Die Dramatik lässt sich
+zudem in zwei verschiedene Poetikgattungen aufteilen: Die Komödie und die Tragödie.
+Es stand auch die dreiteilige Dichtungseinteilung zum Diskurs doch diese dreiteilige
+Einteilung in Lyrik, Epik (Prosa) und die dramatische Dichtung entwickelte sich erst im
+Verlauf des 18. Jahrhunderts. Bei Aristoteles finden wir zu seiner Zeit wiederum eine
+ausdifferenziertere Variante vor. Die Nachahmung vollzieht sich in jeder Dichtung auf
+eine bestimmte Art und Weise, und zwar ist ihr Ziel das Darstellen des durchschnittlichen
+Lebens in all seinen Fassetten. Hierbei liegt ein besonderes Augenmerk auf dem
+menschlichen Charakter, wobei die Charakterentwicklung besonders einschlägig ist. Es
+ist jedoch wichtig festzuhalten, dass eine Unterscheidung bereits im Nachahmen der
+Menschen stattfindet. So ahmt auf der einen Seite die Tragödie den besseren Menschen
+nach, der an seiner Umwelt und den ihn umgebenden äußeren Umständen scheitert und
+somit, als Protagonist eines tragischen Helden zugrunde geht. Dem gegenüber steht die
+Komödie, die den schlechteren Menschen lustig darstellt, welcher als normaler Mensch
+an seiner selbst scheitert. Die Tragödiendichtung nimmt hierbei die höchste Stellung ein
+und ist für die griechische Kultur mit Dichtern wie Sophokles die wichtigste und gängigste Form ihrer Zeit. Die Unterscheidungsmerkmale der Dichtungen lassen sich
+nicht nur in den Charakteren und Handlungssträngen wiederfinden, sondern auch im
+Rhythmus, der Sprache und der Melodie. So besitzt zum Beispiel das Flöten- und
+Zitterspiel keine Sprache, der Tanz nur den Rhythmus, doch manche weisen alle drei in
+unterschiedlicher Gewichtung auf. Auch das Versmaß macht einen Unterschied zwischen
+tragischer Dichtung und Epik aus, es herrscht eine Strenge der griechischen Metrik und
+der Hexameter ist das festgelegte Versmaß des Epos.
+
+**2. Ergebnissammlung: Gruppenarbeit**
+
+*Kapitel 3 + Kapitel 4, S. 13 dritter Absatz („Hymnen und Preislieder)*
+
+Im folgenden Abschnitt bezieht der Autor sich erneut auf den Schlüsselbegriff der
+Nachahmung (griech. Mimesis), doch eröffnet er eine Unterscheidung der verschiedenen
+Vortragsweisen der Handlungen: „Die Nachahmung überhaupt läßt [sic] also, wie wir zu
+Anfang sagten, nach diesen drei Gesichtspunkten Unterschiede erkennen: nach den
+Mitteln, nach den Gegenständen und der Art und Weise“[^2]. Gegenübergestellt wird der
+Begriff des Nacherzählens gegen den des Zeigens. Es ist eine Unterscheidung in
+verschiedene Erzählertypen, wobei es sich beim Nacherzählen als ein Mittel der Sprache
+in dritter Person und beim Zeigen um die erste Person handelt, welche mehr als nur die
+Sprache nämlich sprachliche Stilmittel, Figuren, Argumente und auch Sprecherwechsel
+erfordert. Daraufhin unterteilt Aristoteles die Dichtkunst in zwei Ursachen der Dichtung,
+welche natürlich dem Hang zur Nachahmung angeboren seien: „Das Lernen bereitet nicht
+nur den Philosophen größtes Vergnügen, sondern ähnlicher Weise auch den übrigen
+Menschen […]“[^3]. Der Autor kreiert eine Art teleologische Konzeption, bei welcher das
+Interesse eines förmlichen Wissensdurstes nach sich selbst und das Streben im Erfahren
+der Dichtung für ein erneutes Lernen das Ziel ist. Das mimetische Nachahmen wird als
+kultürlicher Prozess des Menschen gesehen, womit sich Aristoteles gegen eine
+Künstlichkeit der Dichtung Platons ausspricht und dieser eine Natürlichkeit in der
+Nachahmung der Natur nachsagt.
+
+*Kapitel 4 (aus vorhomerischer Zeit…) und Kapitel 5*
+
+Aristoteles konstituiert Homer als ersten bekannten Dichter (um 800 v. Chr.), welcher die
+Komödie angedeutet hat, somit auch als Beginn einer Dichtungstradition. Daraufhin
+ereignet sich eine Teilung der Dichter in zwei Gattungen: Auf der einen Seite befinden
+sich die Komödiendichter, Ihnen gegenüber Epiker und Tragiker, die sich aus der Komödie heraus entwickeln. Entscheidend für die Dichtungstradition ist die Entwicklung
+Aischylos, der im Schauspiel den „Dialog zur Hauptsache“ kürt und Sophokles der
+daraufhin Bühnenbilder hinzufügt und ein Gruppenschauspiel erfindet.[^4] Entwicklung im
+Stil vollzieht sich in der Form des Versmaßes von einem trochäischen Tetrameter zu
+einem jambischen Trimeter und der Jambus wird zum sprechenden Versmaß entwickelt.
+Erläutert werden auch Unterscheidungsmerkmale der Epik und Tragödie, da beide zwar
+bessere Menschen nachahmen, doch die Epik besteht aus einem Bericht und die Tragödie
+enthält eine sehr enge und kurze Zeitspanne ohne Zeitsprünge, wohingegen das Epos über
+unbeschränkte Zeit verfügt. „Denn was die Epik enthält, ist auch in der Tragödie
+vorhanden, doch was die Tragödie enthält, ist nicht alles in der Epik vorhanden“.[^5]
+
+*Kapitel 6*
+
+„Die Tragödie ist Nachahmung einer guten und in sich geschlossenen Handlung von
+bestimmter Größe, in anziehend geformter Sprache, wobei diese formenden Mittel in den
+einzelnen Abschnitten je verschieden angewandt werden […]“.[^6] Aristoteles widmet sich
+den wesentlichen sechs Elementen der Tragödie, welche er hierarchisierend diskutiert:
+An erster Stelle steht der Mythos, der Fundament und Seele der Tragödie begründet.
+Darauf folgen die Charaktere, welche eine bestimmte Beschaffenheit mit einer
+bestimmten Entwicklung je nach Handlungsstrang erleben. Wichtig ist auch die
+Erkenntnisfähigkeit: Welche die Frage stellt, nach dem was angemessen ist und dass
+etwas sei oder nicht sei. Weniger hochgestellt doch immer noch relevant erscheint für ihn
+die Sprache. Für diese bilden die Charaktere das Medium, für welche sie Kriterien,
+anziehend geformte Sprache, Rhythmus, Melodie und Verständigung durch ihre Worte,
+erfüllen muss. Der Sprache untergeordnet ist die Melodik, die eine anziehende Formung
+erschaffen soll. Doch hingegen nutzlos für Aristoteles erscheint die Inszenierung: „[…]
+sie ist jedoch das Kunstloseste und hat am wenigsten etwas mit der Dichtkunst zu tun“.[^7]
+Denn es geht ihm um die Dichtkunst, in welcher der Text höher geschätzt und mehr wert
+ist als das Theater inklusive Bühnenbild, Maske, Kostüm und Rahmung.
+Die Wirkung des ganzen Wesens der Tragödie ist der Jammer und das Schaudern des
+Betrachters zur Reinigung seiner selbst durch das Widererkennen (Griech. Anagnorizo)
+in der dargestellten Handlung mit ihrem Wendepunkt (Peripetie), die den Helden an
+seinen ihm umgebenden Umständen scheitern lässt.
+
+
+**Literaturverzeichnis:**
+
+- Aristoteles; Übers. u. Hrsg. Fuhrmann, Manfred. Poetik. Griechisch/ Deutsch. Ditzingen: Reclam, 2022.
+- Auerbach, Eric. Mimesis: dargestellte Wirklichkeit in der abendländischen Literatur. Tübingen: A. Francke Verlag, 2015.
+
+
+[^1]: Vgl. Erich Auerbach. Mimesis: dargestellte Wirklichkeit in der abendländischen Literatur, (Tübingen, 2015).
+[^2]: Aristoteles; Übers. u. Hrsg. Manfred Fuhrmann, Poetik. Griechisch/ Deutsch (Ditzingen, 2022), S. 9. 
+[^3]: Ebd., S.11.
+[^4]: Vgl. Ebd., S. 15.
+[^5]: Ebd., S. 19.
+[^6]: Ebd., S. 19.
+[^7]: Ebd., S. 25.
 
