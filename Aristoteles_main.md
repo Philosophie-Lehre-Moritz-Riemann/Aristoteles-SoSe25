@@ -612,3 +612,9 @@ seinen ihm umgebenden Umständen scheitern lässt.
 [^6]: Ebd., S. 19.
 [^7]: Ebd., S. 25.
 
+
+## 3. Sitzung am 12.05.2025
+
+Textgrundlage: Kapitel 7-10
+
+Thematischer Schwerpunkt: Aufbau und Mythos
