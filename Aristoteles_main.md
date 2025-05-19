@@ -618,3 +618,87 @@ seinen ihm umgebenden Umständen scheitern lässt.
 Textgrundlage: Kapitel 7-10
 
 Thematischer Schwerpunkt: Aufbau und Mythos
+
+### Protokoll von Laura Pohlmann
+
+**1. Vorstellung des Protokolls der vergangenen Sitzung vom 05.05.2025**
+
+Das Protokoll der vergangenen Sitzung stellt den Ursprung und die Arten der Dichtung in den Kapiteln 4 bis 6 vor. Im Plenum wurde besonders auf folgendes Zitat eingegangen: „[W]as die Epik enthält, ist auch in der Tragödie vorhanden, doch was die Tragödie enthält, ist nicht alles in der Epik vorhanden“.[^1] Denn das Epos ist eine erzählende Handlung eines Charakters, während in der Tragödie die Form des Dialoges und somit ein Gespräch vorherrscht.[^2]
+
+
+**2. Inhaltliche Besprechung der Kapitel 7 bis 10**
+
+*2.1 Definition von Mythos und Fabel*
+
+Der Mythos und die Fabel werden bei Aristoteles mit der Handlung gleichgesetzt [Hervorhebung der Verfasserin].[^3] Von dieser Definition ausgehend entstand im Plenum folgende weiterführende Idee: Konkret basiert der Mythos auf einer wahren Begebenheit aus der Mythologie, etwa der Personifikation von menschlichen Fähigkeiten in Göttern. Die Handlung muss jedoch nicht unbedingt auf einer mythologischen Begebenheit aufbauen, es kann auch eine historische sein. Die Übersetzung von Gerücht kommt dem Mythos am nächsten [Hervorhebung der Verfasserin].
+
+*2.2 Aufbau, Größe und Proportionalität der Tragödie*
+
+Die Tragödie ist eine geschlossene und ganze Handlung, bestehend aus einem Anfang, einer Mitte sowie einem Ende.[^4] Wenn Handlungen gut miteinander verknüpft werden sollen, muss dieser strikte Aufbau beachtet werden. „Das Schöne beruht nämlich auf der Größe und der Anordnung [Hervorhebung der Verfasserin].“[^5] Es braucht also auch ein Mittelmaß der Größe und eines zeitlichen Rahmens, das Stück darf nicht zu klein und nicht zu groß sein, denn „[w]enn es der Tragödie an Überschaubarkeit, an Einprägsamkeit fehlt, dann kann deren eigentliche Wirkung – Jammer und Schaudern – gar nicht erst eintreten“.[^6] Jammer und Schaudern sind Affekte, die durch den Mythos beim Publikum entstehen.[^7]
+
+
+Die Tragödie ist von den ästhetischen Begriffen der Ordnung sowie der Proportionalität geprägt. Analog hierzu steht der vitruvianische Mensch[^8] nach Leonardo da Vinci. Wie der vitruvianische Mensch steht in der Tragödie der Anfang im richtigen proportionalen Verhältnis zur Mitte und zum Schluss. Die Größe und die Anordnung einer Tragödie sorgen schließlich für Schönheit, Gelungenheit und Angemessenheit des Mythos. Weiter in Kapitel 8 wird die Einheit des Ganzen des Mythos erläutert. Alle Handlungen müssen miteinander verwoben sein, denn fehlt eine Teilhandlung der gesamten Handlung, wäre letztere nicht mehr zusammenhängend. Hieraus folgt, dass eine Herausnahme eines Handlungsteils eine inhaltliche Lücke erzeugt.[^9]
+
+
+*2.3 Unterschiede zwischen Dichtung und Geschichtsschreibung*
+
+In Kapitel 9 unterscheidet Aristoteles die Dichtung von der Geschichtsschreibung. Die Dichtung ist philosophischer und etwas ernsthafteres als die Geschichtsschreibung. Weiter spricht die Dichtung vom Allgemeinen, die Geschichte vom Besonderen. Somit
+handelt etwa in der Tragödie ein Mensch entsprechend seiner Charaktereigenschaften. Es geht dabei darum, dass ein Ereignis auf eine Weise geschehen könnte. Der Historiker hingegen stellt jenen Sachverhalt dar, der sich in der Wirklichkeit ereignet hat
+[Hervorhebungen der Verfasserin].[^10] Die Fabel verkörpert im Drama eine wichtigere Funktion als die Form.[^11]
+
+*2.4 Die Episode*
+
+Als episodisch wird „de[r] verselbstständigte[...], nicht in das Handlungsgefüge integrierte[...] Teil der Fabel, also die ‚Episode‘ im heutigen Sinne [Hervorhebung im Original]“[^12] bezeichnet. Aristoteles bewertet die episodischen Fabeln und Handlungen als die schlechteren.[^13] Im heutigen Verständnis kann als Beispiel für eine Reihe an Episoden eine Sitcom, wie die Simpsons, angeführt werden. Diese Sitcom wäre im aristotelischen Sinne eine schlechte Fabel, da der Zuschauer weiß, dass jede Episode den gleichen Anfangspunkt besitzt. Zwischen den Handlungen in den einzelnen Episoden besteht also kein konkreter Zusammenhang. Im Drama kommt die Affektreinigung von Jammern und Schaudern gerade durch das folgerichtige Auseinanderhervorgehen der Handlungen zustande. Diese Fabeln, die einen solchen „Charakter des Wunderbaren“[^14] tragen, bezeichnet Aristoteles als bessere Fabeln.
+
+*2.5 Einfache und komplizierte Fabeln*
+
+In Kapitel 10 differenziert Aristoteles die einfache und die komplizierte Fabel. In der einfachen Fabel liegt eine einfache Handlung ohne Peripetie^15 und ohne Wiedererkennung[^16] vor. Hingegen beinhaltet die komplizierte Fabel eine komplexere Handlung sowie eine Peripetie als auch eine Wiedererkennung.[^17] Notwendigerweise geht die Peripetie aus der vorherigen Handlung hervor.[^18]
+
+
+**Quellennachweise**
+
+*Monographie:*
+
+Aristoteles: Poetik. Griechisch/Deutsch. Übers. u. hg. v. Manfred Fuhrmann. Stuttgart: Reclam 1994.
+
+*Internetquelle:*
+
+https://nicofranz.art/leonardo-da-vinci/vitruvianischer.mensch (letzter Zugriff: 15.05.2025).
+
+*Abbildungsverzeichnis*
+
+https://www.wissen.de/sites/default/files/styles/responsive_900w/public/wissensserver/jadis/incoming/1506772-bearb.jpg? tok=wZut6yLV (letzter Zugriff: 14.05.2025).
+
+
+[^1]: Aristoteles: Poetik. Griechisch/Deutsch. Übers. u. hg. v. Manfred Fuhrmann. Stuttgart: Reclam 1994, S. 19.
+[^2]: Vgl. ebd., S. 9.
+[^3]: Vgl. ebd., S. 19.
+[^4]: Aristoteles, Poetik, vgl. S. 25.
+[^5]: Ebd., S. 25.
+[^6]: Ebd., S. 112.
+[^7]: Vgl. ebd., S. 109.
+[^8]: Anmerkung der Verfasserin: Da Vinci stellte um 1490 den vitruvianischen Menschen an Anlehnung an den antiken Architekten Vitruv dar. Die Darstellung zeigt einen Mann mit ausgestreckten Gliedmaßen, welche von einem Kreis und einem Quadrat umschlossen werden. Auf diese Weise werden die idealisierten Proportionen des Menschen veranschaulicht (siehe Anhang), https://nicofranz.art/leonardo-da-vinci/vitruvianischer-mensch (letzter Zugriff: 15.05.2025).
+[^9]: Aristoteles, Poetik, vgl. S. 29.
+[^10]:  Vgl. ebd., S. 29, 31.
+[^11]: Vgl. ebd. , S. 31.
+[^12]: Ebd., S. 114.
+[^13]:  Vgl. ebd., S. 33.
+[^14]:  Aristoteles, Poetik, S. 33.
+[^15]: Anmerkung der Verfasserin: Die Peripetie ist der Wendepunkt im klassischen Drama. Der Handlungsverlauf ändert sich unerwartet in Glück oder Unglück des Handelnden, ob der Ausgang der Handlung gut oder schlecht sein wird ist nun erkennbar (Aristoteles, Poetik, vgl. S. 35.).
+[^16]: Anmerkung der Verfasserin: Die Wiedererkennung ist ein Handlungselement im klassischen Drama. Bei der Wiedererkennung wandelt sich das Unwissen des Handelnden in Wissen um (vgl. ebd., S. 35.).
+[^17]:  Vgl. ebd., S. 33.
+[^18]: Vgl. ebd., S. 35.
+
+
+## 4. Sitzung am 19.05.2025
+
+Textgrundlage: Kapitel 11--13
+Protokoll: Tarja Hansen
+
+**Schlüsselbegriffe**
+
+1) Peripetie
+2) Anagnorisis
+3) Pathos
+
+
