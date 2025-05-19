@@ -693,12 +693,15 @@ https://www.wissen.de/sites/default/files/styles/responsive_900w/public/wissenss
 ## 4. Sitzung am 19.05.2025
 
 Textgrundlage: Kapitel 11--13
+
 Protokoll: Tarja Hansen
 
 **Schlüsselbegriffe**
 
 1) Peripetie
+   
 2) Anagnorisis
+   
 3) Pathos
 
 
