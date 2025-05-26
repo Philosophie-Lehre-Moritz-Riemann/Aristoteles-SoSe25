@@ -703,5 +703,64 @@ Protokoll: Tarja Hansen
 2) Anagnorisis
    
 3) Pathos
+ 
 
+### Protokoll von Tarja Hansen
+
+
+**Anknüpfung an die vorherige Sitzung**
+
+
+Im Rahmen der Rekapitulation der letzten Sitzung am 12.05.2025 wird ausgehend von dem Aspekt der Differenzierung einer einfachen und komplizierten Fabel auf die Begriffe „Peripetie“ und „Anagnorisis“ zurückgegriffen, die im weiteren Verlauf der Sitzung näher bestimmt werden. Vorerst wird herausgestellt, dass eine Fabel mit Peripetie und/    oder Anagnorisis zu den komplizierteren zählt und eine solche ohne diese Elemente als einfache und schlechtere Fabel gilt.[^1] Der Verweis fasst auch die Wichtigkeit einer bestimmten Größe ins Auge, diese sei optimal, insofern Peripetie und Anagnorisis vorliegen.[^2]
+
+    
+**Die drei Schlüsselbegriffe Peripetie, Anagnorisis und Pathos (Beispiel: Ödipus und Orestie)**
+
+Die Peripetie definiert sich bei Aristoteles durch einen „[...] Umschlag dessen, was erreicht werden soll, in das Gegenteil [...]“[^3]. Dieser Umschlag lässt sich auch als ein Umschlag vom Guten ins Schlechte beschreiben. Dabei wandelt sich das Glück, durch einen Fehler des Protagonisten bedingt, ins Unglück.[^4] Die Anagnorisis bezeichnet einen „[...] Umschlag von Unkenntnis in Kenntnis [...]“[^5]. Aristoteles unterstreicht dabei vorwiegend das Erkennen von anderen Personen, wobei auch andere Formen des Erkennens denkbar wären z.B. das Erkennen von Taten. In einer Tragödie könnte sich diese Art von Umschlag in einem Wechsel von Freundschaft zu Feindschaft manifestieren.[^6] Das dritte hier thematisierte Element ist das Pathos , das vor allem die Katastrophe am Ende einer jenen Tragödie bezeichnet. „[Es] ist ein verderbliches oder schmerzliches Geschehen [...]“[^7] und beschreibt ebenfalls das in der Tragödie entstehende Leid. Dieser Inhalt entspricht in der Komödie dem Gegenteil.[^8] Es lässt sich konstatieren, dass die Peripetie und Anagnorisis eng miteinander verwoben sind. Aus einem Umschlag der Handlung kann sich der Wissenstand des Protagonisten verändern. Die Handlung bewegt
+sich stets in den Schranken des Leids und endet auch in eben diesem. Illustrativ wird für alle drei Elemente die Tragödie Ödipus angeführt. Durch die Befragung des Orakels erfährt Ödipus, dass er seinen Vater erschlagen und seine Mutter ehelichen wird. In der Folge flieht Ödipus, um seine Eltern zu schützen. Er weiß jedoch nicht, dass es sich um seine Adoptiveltern handelt. Er begegnet seinem leiblichen Vater und erschlägt diesen unwissentlich. Dies ist der Zeitpunkt, an dem die erste Peripetie eintritt. In einem weiteren Kampf besiegt Ödipus die Sphinx und bekommt als Belohnung seine leibliche Mutter zur Frau. Hier tritt die zweite Peripetie ein. Die Anagnorisis folgt dann unmittelbar, indem Ödipus feststellt, was er getan hat. Das Pathos zeichnet sich in dem Leid, was durch das unentwegte Schicksal bestimmt ist, ab.[^9] Demzufolge ist Ödipus als Beispiel einer besseren Tragödie zu verstehen, da die Peripetie und die Anagnorisis zusammenfallen und die Wiedererkennung der Personen die Affekte eleos und phobos hervorrufen.[^10] Ein weiteres Beispiel ist „Orestie“, in der Agamenon mit seiner Freundin Cassandra nach Troja zurückkehrt. Seine Frau hat ihn betrogen und plant gemeinsam mit ihrem Liebhaber die Ermordung der beiden bei einem gemeinsamen Treffen. Cassandra erkennt im Vorhinein, was sie vorhaben (Anagnorisis), doch niemand glaubt ihr. Mit dem Ausarten des Treffens und der anschließenden Ermordung schlägt die Handlung um (Peripetie). Darin schlägt sich erneut das große Leid nieder.[^11]
+
+**Verortung der Schlüsselbegriffe im Dramenaufbau**
+
+Die Peripetie lässt sich als der Höhepunkt im Dramenablauf beschreiben. An ihrer Stelle verändert sich der Verlauf des Mythos ‘[^12] ins Gegenteil. Die Anagnorisis kann an
+derselben Stelle auftreten, unmittelbar davor oder danach eintreten. Festzuhalten bleibt aber, dass die Peripetie und die Anagnorisis sich stets gegenseitig bedingen. Das Pathos ergibt sich aus den Elementen Peripetie und Anagnorisis und bezeichnet den Gesamtprozess des schweren Leids. Seine Wirkung zeigt sich am Ende der Tragödie in der Katastrophe und mündet in der Katharsis.
+
+
+**Ausdehnung und Zusammensetzung der Tragödie**
+
+Eine Tragödie besteht aus einem Prolog , einer Episode , einem Exodos und Chorpartien. Der Prolog ist als eine Einleitung vor dem Einzug des Chores zu verstehen. Darunter fällt der Parodos, der das Einzugslied des Chores bezeichnet. Neben dem Parodos differenzieren sich die Chorpartien in das Stasimon, das das Standlied des Chores bezeichnet und dem Parodos nachgestellt ist. Die Episode hingegen bildet das Mittelstück zwischen den Chorliedern, der Exodos erfolgt dann nach dem letzten Chorlied.[^13] Das Standlied zeigt seine weitere Relevanz in der Tatsache, dass der Inhalt auf die Peripetie vorbereitet oder sie kommentiert. Weiterhin stützt sich Aristoteles auf die Aussage, dass eine bessere Fabel durch das Hervorrufen von eleos und phobos begründet sei und stellt heraus, dass eben die Konzepte, die diese hervorrufen der ‚poetischen Gerechtigkeit‘ entsprechen, d.h., dass das Glück oder Unglück, dass die Person im Laufe der Tragödie erfährt der Lebenssituation entsprechen muss. Ansonsten würden keine Affekte hervorgerufen. So dürfe beispielsweise nicht Gegenstand der Tragödie sein, wie eine Person hohen sittlichen Niveaus vom Glück ins Unglück fällt.[^14] Dieser Aspekt geht einher mit „[...] der Wahrscheinlichkeit oder Notwendigkeit aufeinanderfolgende[r] Ereignisse[...]“[^15]. Derjenige, der einem Umschlag von Glück ins Unglück durch einen Fehler bedingt, erlebt, der bewegt sich in der optimalen Größe einer Tragödie, wie es in Ödipus der Fall ist.[^16] 
+
+**„Die Odyssee“ als zweitbeste Tragödie** 
+
+Tragödien, die diesem Regelwerk nicht entsprechen gehen den schlechteren entgegen. „Die Odyssee“ benennt Aristoteles als zweitbeste Tragödie, da das sittliche Niveau der Figuren nicht mit ihrem Glückszustand übereinstimmt. So erleben die Figuren mit einem hohen sittlichen Niveau einen Umschlag ins Unglück und die mit einem niederen sittlichen Niveau einen ins Glück. Zwar gefiele auch diese Art von Tragödie den Zuschauern, würde aber beispielsweise nicht ebenso eine optimale Größe verzeichnen wie „Ödipus“, und zwar in dem Maße, als, dass die ursprünglich verfeindeten Protagonisten als Freude auseinander gehen. „Die Odyssee“ endet nicht in einer Katastrophe und bildet auch nicht das Pathos ab, denn die Figuren sind am Leben.[^17]
+
+**Literaturverzeichnis**
+
+Aristoteles: Poetik. Griechisch/ Deutsch. Übers. u. hg. v. Manfred Fuhrmann. Stuttgart:
+Reclam 1994
+
+
+[^1]: Aristoteles: Poetik. Griechisch/ Deutsch. Übers. u. hg. v. Manfred Fuhrmann. Stuttgart: Reclam 1994, vgl. S. 33.
+[^2]: Vgl. ebd., S. 27.
+[^3] Ebd., S. 35.
+[^4]: Vgl. ebd., S. 39.
+[^5]: Ebd., S.35.
+[^6]: Vgl. ebd., S. 35; S. 37.
+[^7]: Ebd., S. 37.
+[^8]:  Vgl. Aristoteles, Poetik, S. 37, Fußnote 9; S. 17.
+[^9]: Vgl. ebd. S. 35, Fußnote 4; siehe Tragödie Ödipus nach Sophokles.
+[^10]: Vgl. ebd., S. 35.
+[^11]: siehe Tragödie Orestie nach Aischylos.
+[^12]: Anmerkung der Verfasserin: Mythos im Sinne von Handlung.
+[^13]: Vgl. Aristoteles, Poetik, S. 37.
+[^14]: Vgl. ebd., S. 39; Fußnote 4.
+[^15]: Vgl. ebd., S. 27.
+[^16]: Vgl. ebd., S. 39.
+[^17]: Vgl. Aristoteles, Poetik, S. 41; Fußnote 11.
+
+
+## 5. Sitzung am 26.05.2025
+
+Textgrundlage: Kapitel 14: Eleos und Phobos; Euripides: Die Troerinnen
+
+Protokoll: Julius Schrader
 
