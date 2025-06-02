@@ -852,19 +852,32 @@ Wirkungsweise, in: Theater 36.
 
 
 [^1]: Aristoteles: Poetik. Griechisch/ Deutsch. Übers. u. hg. v. Manfred Fuhrmann. Stuttgart 1994, S. 35. 
+
 [^2]Euripides: Die Bittflehenden Mütter. Der Wahnsinn des Herakles. Die Troerinnen. Elektra, in: Euripides. Sämtliche Tragödien und Fragmente. Griechisch/ Deutsch, Übers. v. Ernst Buschor u. hg. v. Gustav Adolf Seeck. Stuttgart 2014.
+
 [^3]: Aristoteles: Poetik, S. 41-47.
+
 [^4]: "Eleos und Phobos" Litwiss Online, Christian-Albrechts-Universität zu Kiel, 2024. URL: https://www.litwiss-online.uni-kiel.de/glossary/eleos-und-phobos/ [Letzter Zugriff 30.5.20 25].
+
 [^5]: Canaris, Johanna: Mythos Tragödie. Zur Aktualität und Geschichte einer theatralen Wirkungsweise, in: Theater 36, S. 20 ff.
 [^6]: Aristoteles: Poetik, S. 47.
+
 [^7]: "Pathos" Litwiss Online, Christian-Albrechts-Universität zu Kiel, 2024. URL: https://www.litwiss-online.uni-kiel.de/glossary/pathos/ [Letzter Zugriff 30.5.20 25]. Pathos bedeutet in etwa Leid, Leidenschaft, Erleiden.
+
 [^8]: Aristoteles: Poetik, S. 43.
+
 [^9]: Ebd.
+
 [^10]: Euripides: Die Troerinnen, S. 193.
+
 [^11]: Aristoteles: Poetik, S. 39. Nach Aristoteles ist ein Mensch mit großem Ansehen und Glück die ideale Figur für eine Tragödie, die Leid durch den Umschlag von Glück ins Unglück widerfährt.
+
 [^12]: Euripides: Die Troerinnen, S. 215 ff.
+
 [^13]: Ebd. S. 194 ff.
+
 [^14]: Ebd. S. 269 ff.
+
 [^15]: Ebd. S. 279 ff.
 
 
