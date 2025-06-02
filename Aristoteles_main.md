@@ -762,5 +762,114 @@ Reclam 1994
 
 Textgrundlage: Kapitel 14: Eleos und Phobos; Euripides: Die Troerinnen
 
-Protokoll: Julius Schrader
+### Protokoll von Julius Schrader
+
+**1. Einbettung in den Seminarkontext**
+
+Im Rahmen der letzten Sitzung vom 19.05.2025 wurde der typische Dramenaufbau einer
+Tragödie mithilfe der Schlüsselbegriffe Peripetie, Anagnorisis und Pathos beschrieben. Nach
+Aristoteles ist der Umschlag der Handlung[^1] , die Wiedererkennung und die Katastrophe am
+Ende des Werkes essenziel für eine gute Tragödie. Schließlich erläutert Aristoteles die
+unterschiedlichen Charaktertypen einer Tragödie anhand von Ödipus und der Odyssee. In dieser
+Stunde wird der theoretische Dramenaufbau auf Euripides‘ Werk Die Troerinnen übertragen.[^2]
+Die theoretische Grundlage für Euripides Werk lieferte hierbei Kapitel 14 aus Aristoteles
+Poetik.[^3]
+
+**2. Die Bedeutung von *eleos* und *phobos***
+
+Um die Wirkung der Tragödie zu verstehen, muss man zunächst die Auswirkungen von
+Jammern und Schaudern[^4] auf die Zuschauer verstehen. Johanna Canaris beschreibt die eleos
+als ein „spontan aufkommendes Gefühl“, welches auf eine „seelische Verbundenheit“ der
+Menschen zurückgeht.[^5] Dagegen sind Emotionen wie Wut flüchtig, weil sie oft auf äußere
+Auslöser gerichtet sind, während tiefgreifende Emotionen wie Angst und Mitleid aus innerer
+Anteilnahme am fremden Leid entstehen. Aristoteles betont hierbei, dass sich die Tragödie auf
+wenige Geschlechter konzentrieren muss, damit der größtmögliche Effekt des Jammerns und
+des Schauderns entstehen kann. Er fügt dabei an, dass es sich um Geschlechter mit „derartige[n] schwere[n] Fälle[n] von Leid“[^6] handeln muss. Dabei ist es eine falsche Annahme, dass eine
+gute Tragödie mit einem Tod beim Exodus endet. Stattdessen zeichnet sich eine gute Handlung
+durch eine seelische Erschütterung aus. In Euripides‘ Iphigenie in Aulis wird dieser Effekt
+exemplarisch erreicht: Die Aussicht auf das Opfer von Iphigenie durch ihren eigenen Vater
+Agamemnon erzeugen ein Höchstmaß an Tragik, selbst dann, wenn Iphigenie in manchen
+Fassungen von der Göttin Artemis gerettet wird. Der Tod ist also nicht Voraussetzung für die
+Tragödie, solange die Handlung, meistens zwischen der Peripetie und dem Exodus, ein
+tiefgreifendes pathos[^7] und einen moralischen Konflikt liefert.
+
+**3. Übertragung auf Die Troerinnen von Euripides**
+
+Das Geschlecht, welches nach der Theorie von Aristoteles betrachtet wird, ist das Haus
+Priamos. Das Leid trifft dabei vor allem die ehemalige Königin Hekabe, ihre Töchter Kassandra
+und Helena sowie ihre Schwiegertochter Andromache. Die weiblichen Protagonisten stellen
+somit eine Familie dar, welche sich für Tragödien am besten eignen.[^8]
+
+„Das schwere Leid innerhalb [...] [dieses] Naheverhältnisse[s]“[^9] trägt allen voran Hekabe.
+Schon vor dem Einsetzen der Handlung wurden ihr Mann Priamos sowie ihr Sohn Hektor im
+Trojanischen Krieg ermordet.[^10] Ihre politische Funktion und Ansehen sind mit dem Untergang
+ihrer Stadt verloren gegangen. Durch den Chor der gefangenen Trojanerinnen erfährt sie, dass
+ihre Tochter Kassandra vom griechischen König vergewaltigt und Polyxena hingerichtet wurde.
+Ihre Machtlosigkeit, auf all diese Geschehnisse keinen Einfluss zu haben, stellt das Zentrum
+des Leidens dar. Als moralisch gutes Wesen ist sie unschuldig an allen Ereignissen, aber erleidet
+die Tragik in voller Härte.[^11]
+
+Parallel trägt Andromache zum übergeordneten pathos bei. Sie verliert ebenfalls ihren Mann
+und teilt ihr Leid mit Hekabe, weil ihr einziges Kind und Hekabes Enkel Astyanax getötet wird.
+Für Troja bedeutet es den unrettbaren Untergang, da der einzige männliche Nachfahre Trojas
+gestorben ist und das Geschlecht der Priamos aussterben wird.
+
+Kassandra stellt hierbei die Vielfältigkeit von Leid dar. Als Seherin sieht sie ihr Schicksal
+voraus, kann jedoch nichts dagegen tun. Ihre Erfahrung ist damit mehr physisch destruktiv. Ihre Schicksalsakzeptanz in Form der fast ekstatischen Hochzeitsrede verstärkt die Ambivalenz zwischen Verzweiflung und Überhöhung.[^12]
+
+
+**4. Kurze Einordnung in den Dramenaufbau**
+
+Während der Besprechung des Inhalts wurde dessen Einordnung in den Dramenaufbau kurz
+besprochen. Der Prolog in Die Troerinnen wird von den Göttern Poseidon und Athena
+gesprochen und erfüllt die Funktion der Exposition: Er führt in Ort, Zeit und Situation des
+zerstörten Trojas ein und gibt einen Ausblick auf das bevorstehende Schicksal der überlebenden
+Frauen.[^13] Die Peripetie liegt in der Szene, in der Andromache erfährt, dass ihr Sohn Astyanax
+getötet werden soll. Hier wird deutlich, dass nicht nur die Vergangenheit verloren ist, sondern
+auch die Zukunft des trojanischen Geschlechts ausgelöscht wird.[^14] Der Exodus, der letzte Teil
+der Tragödie, zeigt schließlich den vollständigen Untergang Trojas: Die Stadt wird in Brand
+gesetzt, die Frauen werden als Sklavinnen fortgeführt, und Hekabe bleibt als Symbol einer
+zerstörten Welt zurück.[^15]
+
+
+**5. Quellen- und Literaturverzeichnis:**
+
+*5.1. Quellenverzeichnis:*
+
+Aristoteles: Poetik. Griechisch/ Deutsch. Übers. u. hg. v. Manfred Fuhrmann. Stuttgart 1994.
+Euripides: Die Bittflehenden Mütter. Der Wahnsinn des Herakles. Die Troerinnen. Elektra, in:
+Euripides. Sämtliche Tragödien und Fragmente. Griechisch/ Deutsch, Übers. v. Ernst Buschor
+u. hg. v. Gustav Adolf Seeck. Stuttgart 2014.
+
+*5.2. Literaturverzeichnis:*
+
+Canaris, Johanna: Mythos Tragödie. Zur Aktualität und Geschichte einer theatralen
+Wirkungsweise, in: Theater 36.
+
+["Eleos und Phobos" Litwiss Online, Christian-Albrechts-Universität zu Kiel, 2024.](https://www.litwiss-online.uni-kiel.de/glossary/eleos-und-phobos/) 
+
+["Pathos" Litwiss Online, Christian-Albrechts-Universität zu Kiel, 2024.](https://www.litwiss-online.uni-kiel.de/glossary/pathos/)
+
+
+[^1]: Aristoteles: Poetik. Griechisch/ Deutsch. Übers. u. hg. v. Manfred Fuhrmann. Stuttgart 1994, S. 35. 
+[^2]Euripides: Die Bittflehenden Mütter. Der Wahnsinn des Herakles. Die Troerinnen. Elektra, in: Euripides. Sämtliche Tragödien und Fragmente. Griechisch/ Deutsch, Übers. v. Ernst Buschor u. hg. v. Gustav Adolf Seeck. Stuttgart 2014.
+[^3]: Aristoteles: Poetik, S. 41-47.
+[^4]: "Eleos und Phobos" Litwiss Online, Christian-Albrechts-Universität zu Kiel, 2024. URL: https://www.litwiss-online.uni-kiel.de/glossary/eleos-und-phobos/ [Letzter Zugriff 30.5.20 25].
+[^5]: Canaris, Johanna: Mythos Tragödie. Zur Aktualität und Geschichte einer theatralen Wirkungsweise, in: Theater 36, S. 20 ff.
+[^6]: Aristoteles: Poetik, S. 47.
+[^7]: "Pathos" Litwiss Online, Christian-Albrechts-Universität zu Kiel, 2024. URL: https://www.litwiss-online.uni-kiel.de/glossary/pathos/ [Letzter Zugriff 30.5.20 25]. Pathos bedeutet in etwa Leid, Leidenschaft, Erleiden.
+[^8]: Aristoteles: Poetik, S. 43.
+[^9]: Ebd.
+[^10]: Euripides: Die Troerinnen, S. 193.
+[^11]: Aristoteles: Poetik, S. 39. Nach Aristoteles ist ein Mensch mit großem Ansehen und Glück die ideale Figur für eine Tragödie, die Leid durch den Umschlag von Glück ins Unglück widerfährt.
+[^12]: Euripides: Die Troerinnen, S. 215 ff.
+[^13]: Ebd. S. 194 ff.
+[^14]: Ebd. S. 269 ff.
+[^15]: Ebd. S. 279 ff.
+
+
+### Die Troerinnen im Dramenschema
+
+
+![Die Troerinnen im Dramenschema](Dramenschema_Troerinnen.jpg)
 
