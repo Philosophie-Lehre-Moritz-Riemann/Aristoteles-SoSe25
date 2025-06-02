@@ -853,7 +853,7 @@ Wirkungsweise, in: Theater 36.
 
 [^1]: Aristoteles: Poetik. Griechisch/ Deutsch. Übers. u. hg. v. Manfred Fuhrmann. Stuttgart 1994, S. 35. 
 
-[^2]Euripides: Die Bittflehenden Mütter. Der Wahnsinn des Herakles. Die Troerinnen. Elektra, in: Euripides. Sämtliche Tragödien und Fragmente. Griechisch/ Deutsch, Übers. v. Ernst Buschor u. hg. v. Gustav Adolf Seeck. Stuttgart 2014.
+[^2]: Euripides: Die Bittflehenden Mütter. Der Wahnsinn des Herakles. Die Troerinnen. Elektra, in: Euripides. Sämtliche Tragödien und Fragmente. Griechisch/ Deutsch, Übers. v. Ernst Buschor u. hg. v. Gustav Adolf Seeck. Stuttgart 2014.
 
 [^3]: Aristoteles: Poetik, S. 41-47.
 
