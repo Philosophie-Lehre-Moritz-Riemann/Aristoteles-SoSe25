@@ -871,5 +871,19 @@ Wirkungsweise, in: Theater 36.
 ### Die Troerinnen im Dramenschema
 
 
-![Die Troerinnen im Dramenschema](Dramenschema_Troerinnen.jpg)
+![Die Troerinnen im Dramenschema](Troerinnen_Dramenschema.jpg)
+
+
+## 6. Sitzung am 2.6.2025
+
+Textgrundlage: Kapitel 15 -- Charaktere; Ergänzung: Theophrast, Charaktere
+
+Protokoll: 
+
+### Theophrastos von Erestos (371--287)
+
+![Theophrastos von Erestos](Theophrastus.jpeg)
+
+- Bedeutender Schüler von Aristoteles; später sein Nachfolger im Peripatos
+- Fortsetzung der aristotelischen Teleologie und Causa-Lehre
 
