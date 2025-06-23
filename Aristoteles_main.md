@@ -900,3 +900,170 @@ Protokoll:
 - Bedeutender Schüler von Aristoteles; später sein Nachfolger im Peripatos
 - Fortsetzung der aristotelischen Teleologie und Causa-Lehre
 
+
+## 7. Sitzung am 16.06.2025
+
+**Textgrundlage:** Kapitel 16-18
+
+### Protokoll von Alina Haigermoser
+
+**Wiederholung des 15. Kapitels vom 02.06.**
+
+In Kapitel 15 geht Aristoteles genauer auf die Merkmale und Anforderungen des
+Charakterbegriffs einer Tragödie ein, die erfüllt sein müssen in einer Handlung. Es
+handelt sich um vier prägnante Merkmale, die Tüchtigkeit, die Angemessenheit, die
+Ähnlichkeit und das Gleichmäßige.[^1] Tüchtigkeit bedeutet, sich makellos oder
+angemessen in bestimmten Situationen zu zeigen oder zu verhalten. Angemessen sein
+bezieht sich sowohl auf das charakterliche als auch auf das sprachliche Auftreten.
+
+Wichtig hierbei ist, dass diese Anforderungen an den Charakter einer Tragödie in sich
+schlüssig sind. Damit ist das Gleichmäßige sowie das Ähnliche gemeint. Der Charakter
+soll sich selbst treu bleiben. Er soll selbst so dargestellt werden, wie es sein Typus oder
+die Handlung selbst vorgibt und wie es für Leser oder Zuschauer am notwendigsten oder
+wahrscheinlichsten erscheint.[^2] Wenn die Figur beispielsweise einen tugendhaften
+Charakter besitzt, dann soll dieser fortlaufend und gleichmäßig so nachgeahmt und
+dargestellt werden in der Tragödie.[^3]
+
+Erich Auerbach, ein humanistischer Philologe, unterscheidet den Begriff zwischen der
+Figur/ figura und der Rolle / persona.[^4] Die figura lässt sich zum einen auf ein Schema
+unterteilen, das klar und erkenntnistheoretisch ist. Der Typos ist das, was etwas Ähnliches
+und Verallgemeinerbares oder Gesetzmäßiges, eine Charaktereigenschaft, darstellen
+möchte. Außerdem korrespondiert es mit dem Ethos/ Ethik, dem Charakter am Theater,
+der bestimmte Tugenden aufweist und mehr sein muss als ästhetisch und neutral. Er muss
+ein bestimmte Gebrauchsästhetik aufweisen. Dieser korrespondiert ebenfalls mit
+bestimmten Vorstellungen der Ethik und Sittlichkeit. Das stimmt auch mit Aristoteles‘
+Annahme überein, dass die Tragödie bessere Menschen darstellen soll, die gute und
+sittliche Tugenden in sich tragen, mit gewissen Neigungen und Charaktereigenschaften.[^5]
+
+
+**Charaktere des Heuchlers und Feiglings von Theophrast**
+
+Der Charakter des Heuchlers wird sehr gegensätzlich, egoistisch und widersprüchlich
+charakterisiert. Dadurch sind seine konkreten Motive nicht ersichtlich und alles, was er
+erzählt und von sich preisgibt, ist sehr theoretisch. Der Heuchler/ Ironiker täuscht sein
+Verhalten absichtlich falsch vor.[^6] Dadurch stellt sich die Frage, ob der Charakter des
+Heuchlers in einer Tragödie verwendet werden kann oder nicht. Prinzipiell wäre es
+möglich, da sein Charakter, auch wenn er nicht von guten Tugenden geprägt ist, trotzdem
+stimmig und gleichmäßig in seinem Verhalten bleibt und dies in den gesamten
+Handlungen beibehalten wird. Fraglich ist, ob in diesem Fall dennoch Affekte wie
+Jammern und Schaudern ausgelöst werden könnten bei den Zuhörern. Als Beispiel für
+Heuchlerei könnte auf Helena verwiesen werden, da sie nicht ganz unschuldig ist an dem
+Untergang Trojas, genauso könnte aber auch Menelaos als Heuchler bezeichnet werden,
+da er viel Schauderliches bewirkt.[^7]
+
+Bei dem Charakter des Feiglings wird ersichtlich, dass er wie der Heuchler Dinge
+vortäuscht und lügt, um das eigene Ziel zu erreichen. Allerdings ist der Feigling noch zu
+sozialen Handlungen fähig und ist sich dieser Notwendigkeit bewusst. Jedoch will er sich
+vor jeglicher Gefahr schützen, ist feige und drückt sich davor.[^8] Er versteht die Werte der
+Gesellschaft, aber kämpft aufgrund Feigheit und Angst nicht dafür und scheitert. Der
+Heuchler ist gegen diese Werte, er kennt sie, aber stellt absichtlich seine eigenen Werte
+und seinen Nutzen in den Vordergrund.[^9] Die Motivation und Vorgehensweise der beiden
+Charaktere sind dementsprechend unterschiedlich. Die Frage, ob der Feigling ebenfalls
+als tragödientauglich gesehen werden könnte, ist etwas heterodox, da es verschiedene
+Ebenen von Feigheit gibt. Dafür sprechen würde, dass er als Nebencharakter fungieren
+könnte, um den tugendhaften Helden als noch besseren Menschen darzustellen, zum
+Beispiel im Kontrast zur Tapferkeit. Auch die Zuschauer könnten sich leicht in den
+Feigling hineinversetzen, da sie evtl., selbst in solchen Situationen an Tapferkeit
+gescheitert wären.
+
+Diese beiden vorgestellten Charaktere von Theophrast, die eher als Charakterschwächen
+angesehen werden, dienen den Komödiendichtern sehr stark als Vorlage für Tragödien.
+Ein Beispiel für den Feigling wäre Persites aus der Ilias von Homer.[^10] Thersites wird im
+zweiten Gesang als Antagonist von Agamemnon und Odysseus als körperlich
+deformierter Krüppel dargestellt, der mit kreischender Stimme eine harsche Gegenrede
+hält. Dieser wird niedergeredet und geschlagen von Odysseus. Odysseus sorgt als
+Agamemnons Verteidiger dafür, dass die Griechen sich entschließen, nicht wieder nach
+Hause zu fahren und Agamemnon als ihren Oberbefehlshaber wieder anerkennen. So wird
+Persites als Feigling durch Odysseus bloßgestellt und später getötet.
+
+
+**Kapitel 16 über die Arten der Wiedererkennung**
+
+Aristoteles unterscheidet zwischen vier Arten der Wiedererkennung. Die erste ist die
+durch gegenwärtige, offensichtliche Zeichen, sie ist kunstlos und einfach. Die zweite
+erfolgt durch etwas, was vom Dichter selbst erdacht ist; sie ist ebenfalls kunstlos. Die
+dritte erfolgt durch eine Erinnerung, die durch eine bestimmte Handlung oder Tat
+hervorgerufen wird und komplexer ist als ein bloßes Zeichen, da sie eine gewisse
+Reaktion der Figur auslöst. Die vierte erfolgt durch logische Schlussfolgerungen, jedoch
+können so auch Fehlschlüsse des Zuschauers interpretiert werden.[^11] ,,Die beste unter allen
+Wiedererkennungen ist diejenige, die sich aus den Geschehnissen selbst ergibt, indem die
+Überraschung aus Wahrscheinlichem hervorgeht‘‘,[^12] ohne das zusätzliche Zeichen
+benötigt werden. Nach Aristoteles ist die zweitbeste Wiedererkennung, die sich aus
+Schlussfolgerungen ergibt.[^13] Der Unterschied zwischen den Schlussfolgerungen und
+Geschehnissen zeigt sich in der Art und Weise, wie sie auf die Zuschauer wirkt. Bei der
+Wiedererkennung durch Geschehnisse ist der Affekt des Schauderns und des Jammerns
+sehr groß, da er sich aus den notwendigen und wahrscheinlichen Handlungen ergibt und
+den Zuschauer überrascht aufgrund einer bestimmten Handlungsabfolge (vgl. Ödipus).
+Bei der Wiedererkennung durch logische Schlussfolgerungen ist der Zuschauer gefasster
+und kann sich erschließen, was als nächstes passieren könnte. Der dadurch
+hervorgerufene Affekt ist somit schwächer.
+
+
+**Kapitel 17 über die Vorgehensweise bei der Tragödiendichtung**
+
+Der erste wichtige Schritt der Tragödiendichtung für Aristoteles ist, sich die Handlung
+und die Gesten der Figuren selbst zunächst lebhaft vorzustellen, um sie später zu einer
+Tragödie zusammenzufügen und sprachlich ausarbeiten zu können.[^14] Dieser Schritt
+erfordert allerdings die Erfahrung des Dichters, wie eine Tragödie auszusehen hat, was
+sie benötigt, um die Handlung verständlich rüberzubringen und worauf verzichtet werden
+kann. Zu Beginn der Dichtung sollte ein grobes Szenengerüst der Handlung entstehen
+und die wichtigsten Ereignisse der Tragödie wiedergegeben werden. Erst im zweiten
+Schritt wird dieses Gerüst erweitert und vervollständigt durch die Namen der
+Charaktere.[^15] Die Protagonisten können aus den überlieferten Stoffen und Geschichten
+übernommen werden, die Nebencharaktere können auch dazu erfunden werden. Im
+Unterschied zum Drama, welches eher kurz und knapp mit wenig Ausschweifungen
+erzählt wird, ist das Epos deutlich länger und ausführlicher gestaltet in den Szenen.[^16]
+
+
+**Literaturverzeichnis**
+
+Aristoteles: _Poetik._ Griechisch/ Deutsch. übers. u. hg. v. Manfred Fuhrmann. Stuttgart:
+Reclam 1994.
+
+Homer: _Ilias_ , Deutsch-griechisch. 16. Auflage, übersetzt v. Hans Rupè Berlin: De
+Gruyter, 2013.
+
+Erich Auerbach: _Mimesis und Figura_. hg. v. Friedrich Balke und Hanna Engelmeier, 2.
+Auflage, Wilhelm Fink, 2018.
+
+Euripides: _Sämtliche Tragödien und Fragmente. Die Troierinnen_ - Elektra. Griechisch-
+deutsch, Band 3, übersetzt v. Ernst Buschor, hg. v. Gustav Adolf Seeck, Heimeran
+Verlag.
+
+Theophrast: _Charaktere_. Griechisch und deutsch von Wilhelm Plankl. München: Ernst
+Heimeran Verlag.
+
+
+[^1]: Vgl. Aristoteles. _Poetik_. Griechisch/ Deutsch. Übers. u. hg. v. Manfred Fuhrmann (Stuttgart: Reclam,
+19942 ), 47, Kapitel 15.
+[^2]: Vgl. ebd., 49.
+[^3]: Vgl. ebd., 47.
+[^4]: Vgl. Erich Auerbach. _Mimesis und Figura_. hg. v. Friedrich Balke und Hanna Engelmeier, 2. Auflage,
+(Wilhelm Fink, 2018).
+[^5]: Vgl. Aristoteles. _Poetik_, 47.
+[^6]: Vgl. Theophrast. _Charaktere_. Griechisch und deutsch von Wilhelm Plankl (München: Ernst Heimeran
+Verlag 7), 23.
+[^7]: Vgl. Euripides. _Sämtliche Tragödien und Fragmente. Die Troerinnen-Elektra_. Griechisch-deutsch, Band
+38, übersetzt v. Ernst Buschor, hg. v. Gustav Adolf Seeck, Heimeran Verlag.
+[^8]: Vgl. Theophrast, _Charaktere_ , 61.
+[^9]: Vgl. ebd., 23.
+[^10]: Vgl. Homer: *Ilias* , deutsch-griechisch, 16. Auflage, übersetzt v. Hans Rupè (Berlin: De Gruyter, 2013).
+[^11]: Vgl., Aristoteles, *Poetik*, 51 ff.
+[^12]: Ebd., 53.
+[^13]: Vgl. ebd., 53.
+[^14]: Vgl. Aristoteles, *Poetik*, 53.
+[^15]: Vgl. ebd., 55.
+[^16]: Vgl. ebd., 57.
+
+
+## 8. Sitzung am 23. Juni 2025
+
+**Textgrundlage:** Kapitel 19–22: Sprache und Rhetorik; Seneca: Die Troerinnen
+
+**Protokoll:** Deniz Muzac 
+
+
+## 9. Sitzung am 30. Juni 2025
+
+
+
